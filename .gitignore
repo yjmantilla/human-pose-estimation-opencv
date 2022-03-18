@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+openpose/
+videos/
+
 # C extensions
 *.so
 
