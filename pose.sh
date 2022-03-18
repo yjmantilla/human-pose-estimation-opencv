@@ -1,0 +1,1 @@
+python openpose.py --input "C:\Users\user\Desktop\human-pose-estimation-opencv\videos\1.LevantamientoDePierna\output1.mp4"
