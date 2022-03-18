@@ -1,1 +1,1 @@
-python openpose.py --input "C:\Users\user\Desktop\human-pose-estimation-opencv\videos\1.LevantamientoDePierna\output1.mp4"
+python openpose.py --input "C:\Users\roger\Documents\STINT\como_hacer_sentadillas_con_mancuernas_41144_paso_2_600.jpg"
